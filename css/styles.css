@@ -2,7 +2,8 @@
 
 body {
     font-family:'Roboto', sans-serif; 
-color: #2E2F42;
+color: #434455;
+background-color: #FFFFFF;
 
 
 }
@@ -33,9 +34,9 @@ font-weight: 400;
     font-family: 'Raleway', sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 21px;
+    line-height: 1.17;
     text-transform: uppercase;
-    letter-spacing: 3%;
+    letter-spacing: 0.03em;
     color: #4D5AE5;
 }
 
@@ -45,6 +46,9 @@ font-weight: 400;
         background-color: #2E2F42 ;
 color: #FFFFFF;
 
+.nav-link{
+    letter-spacing: 0.02em;
+}
     }
     .hero-title{
        
@@ -96,7 +100,6 @@ color: #FFFFFF;
         font-size: 36px;
         line-height: 40px;
         letter-spacing: 2%;
-        text-align: center;
 color: #2E2F42;
 }
 .cartinka-naw-wam{
@@ -105,7 +108,6 @@ color: #2E2F42;
         font-size: 20px;
         line-height: 24px;
         letter-spacing: 2%;
-        text-align: center;
         list-style: none;
 }
 .cartinka-naw-van{
@@ -126,7 +128,6 @@ color: #2E2F42;
         font-size: 18px;
         line-height: 21px;
         letter-spacing: 3%;
-        vertical-align: middle;
         text-transform: uppercase;
 color: #4D5AE5;
  }
