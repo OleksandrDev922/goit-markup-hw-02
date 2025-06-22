@@ -149,7 +149,7 @@ letter-spacing: 0.02em;
   letter-spacing: 0.04em;
   background-color: var(--portfolio-btn-color);
   color: var(--portfolio-btn-text);
-  border: 1px solod #e7e9fc;
+  border: 1px solid #e7e9fc;
   border-radius: 4px;
   letter-spacing: 0.04em;
   cursor: pointer;
