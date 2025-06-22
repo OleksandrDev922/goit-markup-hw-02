@@ -89,7 +89,7 @@ ol {
 .header-nav-link {
   /* letter-spacing: 0.02em; */
   color: var(--text-color);
-  font-weight: 700;
+  font-weight: 500;
 }
 .header-nav-link:hover,
 .header-nav-link:focus {
@@ -113,7 +113,7 @@ ol {
   background-color: var(--background-color);
 }
 .hero-title {
-  text-align: center;
+  /* text-align: center; */
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
@@ -146,17 +146,17 @@ ol {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  /* letter-spacing: 0.02em; */
+  letter-spacing: 0.02em;
   color: var(--text-color);
 }
 .portfolio-title,
 .team-title {
-  text-align: center;
+  /* text-align: center; */
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
   color: var(--text-color);
-  /* letter-spacing: 0.02em; */
+letter-spacing: 0.02em;  
   text-transform: capitalize;
 }
 .team {
@@ -186,7 +186,7 @@ ol {
 }
 .footer-logo {
   font-family: 'Raleway', sans-serif;
-  font-weight: 800;
+  font-weight: 700;
   font-size: 18px;
   line-height: 1.17;
   text-transform: uppercase;
